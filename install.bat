@@ -35,7 +35,7 @@ if "%~3" == "" (
 )
 
 :: New path
-set d_core=%d_path%modules\discord_desktop_core-1\discord_desktop_core
+set d_core=%d_path%modules\discord_desktop_core-2\discord_desktop_core
 
 
 :: make a backup if it doesnt already exist
